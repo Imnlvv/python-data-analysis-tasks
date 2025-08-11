@@ -26,10 +26,3 @@ pyreadstat
 # Visualization
 matplotlib
 seaborn
-
-
-# Download all in bash
-pip install openpyxl xlrd XlsxWriter pyarrow fastparquet lxml ujson tables pyreadstat
-
-# Download all in jupyter
-!pip install openpyxl xlrd XlsxWriter pyarrow fastparquet lxml ujson tables pyreadstat
