@@ -1,0 +1,35 @@
+# Core data analysis stack
+pandas
+numpy
+
+# Excel support
+openpyxl
+xlrd
+XlsxWriter
+
+# Parquet, Arrow, fast I/O
+pyarrow
+fastparquet
+
+# HTML parsing
+lxml
+
+# JSON performance
+ujson
+
+# HDF5 binary format
+tables
+
+# Statistical data formats (SPSS, Stata, SAS)
+pyreadstat
+
+# Visualization
+matplotlib
+seaborn
+
+
+# Download all in bash
+pip install openpyxl xlrd XlsxWriter pyarrow fastparquet lxml ujson tables pyreadstat
+
+# Download all in jupyter
+!pip install openpyxl xlrd XlsxWriter pyarrow fastparquet lxml ujson tables pyreadstat
