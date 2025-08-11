@@ -19,3 +19,15 @@ and data visualization to statistical modeling and working with real datasets.
 ## Purpose
 This repository serves as both a personal learning archive and a portfolio,  
 showcasing my approach to solving data analysis problems in Python.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/python-data-analysis-tasks.git
+   cd python-data-analysis-tasks
+2. Install all dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Open any notebook:
+   ```bash
+   jupyter notebook
