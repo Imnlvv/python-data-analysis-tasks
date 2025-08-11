@@ -22,8 +22,8 @@ showcasing my approach to solving data analysis problems in Python.
 
 ## Project Structure
 <pre>python-data-analysis-tasks
-├── notebooks/ <i># Jupyter notebooks (.ipynb)</i>
 ├── data/ <i># Datasets (CSV, Excel, etc.)</i>
+├── notebooks/ <i># Jupyter notebooks (.ipynb)</i>
 ├── scripts/ <i># Python scripts (.py)</i>
 ├── requirements.txt <i># Python & Pandas dependencies</i>
 └── README.md <i># Project description</i></pre>
