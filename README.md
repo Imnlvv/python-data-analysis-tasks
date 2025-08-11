@@ -20,6 +20,14 @@ and data visualization to statistical modeling and working with real datasets.
 This repository serves as both a personal learning archive and a portfolio,  
 showcasing my approach to solving data analysis problems in Python.
 
+## Project Structure
+<pre>python-data-analysis-tasks
+├── notebooks/ <i># Jupyter notebooks (.ipynb)</i>
+├── data/ <i># Datasets (CSV, Excel, etc.)</i>
+├── scripts/ <i># Python scripts (.py)</i>
+├── requirements.txt <i># Python & Pandas dependencies</i>
+└── README.md <i># Project description</i></pre>
+
 ## Installation
 1. Clone the repository:
    ```bash
